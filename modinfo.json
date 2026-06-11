@@ -1,0 +1,12 @@
+{
+  "id": "buffed-weapons-mod",
+  "name": "Buffed Weapons Mod",
+  "modName": "Buffed Weapons Mod",
+  "version": "1.0.0",
+  "authors": [
+    "Gumideg"
+  ],
+  "supportedGames": [
+    "ogre-chambers-2222"
+  ]
+}
